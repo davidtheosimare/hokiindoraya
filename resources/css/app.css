@@ -1,0 +1,9 @@
+@tailwind base;      /* Tailwind base styles */
+@tailwind components; /* Tailwind component styles */
+@tailwind utilities;  /* Tailwind utility styles */
+@import 'preline/dist/preline.css';
+@import 'flowbite';
+
+body {
+    font-family: 'Inter', sans-serif;
+}
